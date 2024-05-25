@@ -24,7 +24,7 @@
 
 * __[Pharmacies Sales Analysis](https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Pharmacies%20Sales%20Analysis.ipynb)__ : Analyzed sales data from pharmacies to identify trends, optimize inventory, and improve profitability.
 
-* __[Cleaning Port Files]()__ : Providing python script for cleaning 3 excel data files and extracting 2 other excel files with important features needed.
+* __[Cleaning Port Files](https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Port_Cleaning/Port_CleaningScript.ipynb)__ : Providing python script for cleaning 3 excel data files and extracting 2 other excel files with important features needed.
 
 * __[Taxi Rides Analysis](https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Taxi%20Rides%20Analysis.ipynb)__ : Analyzed taxi rides data to optimize routes, improve driver efficiency, and enhance the user experience.
 
