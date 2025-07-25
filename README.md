@@ -51,16 +51,17 @@
 
 ## Reports & Dashboards :
 
-<h3 align="center">Looker Studio</h3>
+<h3 align="center" style="color: blue;">Looker Studio</h3>
 
-<div align="left">
+<div align="center">
   <h3>Pharmacies Sales Dashboard</h3>
   <a href="https://lookerstudio.google.com/reporting/97592d4a-0c69-4999-a3df-53efa8b65d25/page/0p7qD" target="_blank">
     <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/pharmasales.jpeg?raw=true"/>
-    <img src="https://img.shields.io/badge/View%20Dashboard-black?style=for-the-badge&logo=looker" alt="View Dashboard" >
+    <br>
+    <img src="https://img.shields.io/badge/View%20Dashboard-black?style=for-the-badge&logo=looker" alt="View Dashboard"/>
   </a>
 </div>
 
 ---
 
-<!-- Add Power BI dashboard here in similar style -->
+
