@@ -1,3 +1,5 @@
+# Data Analytics Portfolio
+
 <div align="center">
   <h2>Technologies Used</h2>
   <p>
@@ -13,98 +15,52 @@
   </p>
 </div>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin:30px 0">
+---
 
 ## Python & ETL Pipelines
 
-<div class="project-container">
-  <div class="project-card">
-    <h3>E-commerce Analysis</h3>
-    <p>Discovering customers behivour on e-commerce and applying data cleaning, visulaization and feature engineering to capture hidden features.</p>
-    <a href="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/e-commerce%20Analysis/E-commerce%20Analysis.ipynb">
-      <img src="https://img.shields.io/badge/View%20Notebook-blue?style=for-the-badge&logo=jupyter" alt="View Notebook">
-    </a>
-  </div>
-  
-  <div class="project-card">
-    <h3>Pharmacies Sales Analysis</h3>
-    <p>Analyzed sales data from pharmacies to identify trends, optimize inventory, and improve profitability.</p>
-    <a href="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Pharmacies%20Sales%20Analysis/Pharmacies%20Sales%20Analysis.ipynb">
-      <img src="https://img.shields.io/badge/View%20Notebook-blue?style=for-the-badge&logo=jupyter" alt="View Notebook">
-    </a>
-  </div>
-  
-  <div class="project-card">
-    <h3>Taxi Rides Analysis</h3>
-    <p>Analyzed taxi rides data to optimize routes, improve driver efficiency, and enhance the user experience.</p>
-    <a href="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Taxi%20Rides%20Analysis/Taxi%20Rides%20Analysis.ipynb">
-      <img src="https://img.shields.io/badge/View%20Notebook-blue?style=for-the-badge&logo=jupyter" alt="View Notebook">
-    </a>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>E-commerce Analysis</h3>
+        <p>Discovering customers behivour on e-commerce and applying data cleaning, visulaization and feature engineering to capture hidden features.</p>
+        <a href="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/e-commerce%20Analysis/E-commerce%20Analysis.ipynb">
+          <img src="https://img.shields.io/badge/View%20Notebook-blue?style=for-the-badge&logo=jupyter" alt="View Notebook">
+        </a>
+      </td>
+      <td align="center">
+        <h3>Pharmacies Sales Analysis</h3>
+        <p>Analyzed sales data from pharmacies to identify trends, optimize inventory, and improve profitability.</p>
+        <a href="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Pharmacies%20Sales%20Analysis/Pharmacies%20Sales%20Analysis.ipynb">
+          <img src="https://img.shields.io/badge/View%20Notebook-blue?style=for-the-badge&logo=jupyter" alt="View Notebook">
+        </a>
+      </td>
+      <td align="center">
+        <h3>Taxi Rides Analysis</h3>
+        <p>Analyzed taxi rides data to optimize routes, improve driver efficiency, and enhance the user experience.</p>
+        <a href="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Taxi%20Rides%20Analysis/Taxi%20Rides%20Analysis.ipynb">
+          <img src="https://img.shields.io/badge/View%20Notebook-blue?style=for-the-badge&logo=jupyter" alt="View Notebook">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin:30px 0">
+---
 
-## Reports & Dashboards
+## Reports & Dashboards :
 
-### Looker Studio
+<h3 align="center">Looker Studio</h3>
 
-<div align="center" style="border: 1px solid #eee; border-radius: 8px; padding: 20px; background: #fafbfc; margin: 20px 0;">
+<div align="left">
   <h3>Pharmacies Sales Dashboard</h3>
-  <iframe width="800" height="600" src="https://lookerstudio.google.com/embed/reporting/97592d4a-0c69-4999-a3df-53efa8b65d25/page/0p7qD" frameborder="0" style="border:0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></iframe>
+  <a href="https://lookerstudio.google.com/reporting/97592d4a-0c69-4999-a3df-53efa8b65d25/page/0p7qD" target="_blank">
+    <img src="https://github.com/IslamAshraaf/Data-Analysis-Portfolio/blob/main/Dashboards/media/pharmasales.jpeg?raw=true"/>
+    <img src="https://img.shields.io/badge/View%20Dashboard-black?style=for-the-badge&logo=looker" alt="View Dashboard" >
+  </a>
 </div>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin:30px 0">
-
+---
 
 <!-- Add Power BI dashboard here in similar style -->
-
-<style>
-  .project-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    margin: 30px 0;
-  }
-  
-  .project-card {
-    border: 1px solid #e1e4e8;
-    border-radius: 6px;
-    padding: 20px;
-    width: 300px;
-    background-color: white;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    transition: transform 0.3s, box-shadow 0.3s;
-  }
-  
-  .project-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
-  }
-  
-  .project-card h3 {
-    margin-top: 0;
-    color: #0366d6;
-  }
-  
-  .project-card p {
-    color: #586069;
-    margin-bottom: 15px;
-  }
-  
-  a {
-    text-decoration: none;
-  }
-  
-  h2 {
-    border-bottom: 1px solid #eaecef;
-    padding-bottom: 0.3em;
-  }
-  
-  h3 {
-    margin-top: 24px;
-    margin-bottom: 16px;
-    font-weight: 600;
-  }
-</style>
