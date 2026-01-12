@@ -1,5 +1,3 @@
-# Data Analytics Portfolio
-
 <div align="center">
   <h2>Technologies Used</h2>
   <p>
@@ -51,10 +49,10 @@
 
 ## Reports & Dashboards :
 
-<h3 align="center" style="color: blue;">Looker Studio</h3>
+<h3 align="center">Looker Studio</h3>
 
 <div align="center">
-  <h3>Pharmacies Sales Dashboard</h3>
+  <b>Pharmacies Sales Dashboard</b>
   <a href="https://lookerstudio.google.com/reporting/97592d4a-0c69-4999-a3df-53efa8b65d25/page/0p7qD" target="_blank">
     <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/pharmasales.jpeg?raw=true"/>
     <br>
@@ -64,4 +62,23 @@
 
 ---
 
+<h3 align="center">Excel</h3>
 
+<div align="center">
+  <b>FNP Sales Analysis</b>
+    <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/FNP_Sales_Analysis.png?raw=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <b>Store Sales Analysis</b>
+    <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/store_sales_analysis.png?raw=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <b>Customer Churn Analysis</b>
+    <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/customer_churn_excel.png?raw=true"/>
+</div>

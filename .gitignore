@@ -8,6 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+.python-version
+pyproject.toml
+uv.lock
 
 # Files
 *.csv
@@ -16,3 +19,4 @@ wheels/
 # Dashboards
 Dashboards/Looker Studio/
 Dashboards/Power BI/
+Dashboards/Excel/
